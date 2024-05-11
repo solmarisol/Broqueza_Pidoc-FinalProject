@@ -23,42 +23,42 @@ remediation.The analysis presented in this paper is theoretical and does not acc
 
 3. **Web Applications:**
 * Critical: SQL Injection vulnerability in the login form of [Application Name], potentially 
-        enabling an attacker to extract sensitive data from the database.
+  enabling an attacker to extract sensitive data from the database.
 * High: Cross-Site Scripting (XSS) vulnerability in [Application Name], allowing attackers to 
-        execute malicious scripts in users' browsers.
+  execute malicious scripts in users' browsers.
 
 4. **Operating Systems:**
 * Critical: Outdated and unpatched operating systems (Windows Server 2008 R2) on 
-        critical servers [Server Names], exposing them to known exploits and malware.
+  critical servers [Server Names], exposing them to known exploits and malware.
 * High: Weak password policies on domain user accounts, facilitating brute-force attacks 
-        and unauthorized access.
+  and unauthorized access.
 
 6. **Wireless Networks:**
-     * Critical: Weak encryption (WEP) used in wireless networks, allowing attackers to 
-       intercept and decrypt wireless traffic, exposing sensitive data.
+* Critical: Weak encryption (WEP) used in wireless networks, allowing attackers to 
+  intercept and decrypt wireless traffic, exposing sensitive data.
 8. **Social Engineering:
-     * High: Several employees fell victim to phishing emails, providing credentials and 
-       sensitive information in response
+* High: Several employees fell victim to phishing emails, providing credentials and 
+  sensitive information in response
 
 3. **Operating Systems:**
 * Critical: Outdated and unpatched operating systems (Windows 11 Server 2022) on 
-       critical servers [Server Names], exposing them to known exploits and malware.
+  critical servers [Server Names], exposing them to known exploits and malware.
 * High: Weak password policies on domain user accounts, facilitating brute-force attacks 
-       and unauthorized access.
+  and unauthorized access.
 4.**Wireless Networks:**
-*  Critical: Inadequate encryption on wireless networks may allow attackers
-       to eavesdrop on network traffic and intercept sensitive information.
+* Critical: Inadequate encryption on wireless networks may allow attackers
+  to eavesdrop on network traffic and intercept sensitive information.
 5. **Social Engineering:**
 * High: Several employees tricked into revealing sensitive information, such as login
       credentials, through phishing emails or phone calls.
 **Recommendations:**
 1.  **Network Infrastructure:**
 * Implement network segmentation to separate critical components of the infrastructure.
-      Use Amazon VPC to create separate virtual networks for different tiers of services.
+  Use Amazon VPC to create separate virtual networks for different tiers of services.
 * Utilize Amazon CloudWatch and GuardDuty for real-time monitoring of network traffic and to
-      detect any suspicious activities or potential intrusions.
+  detect any suspicious activities or potential intrusions.
 * Implement redundant network paths and failover mechanisms to ensure high availability.
-      Use Amazon Route 53 for DNS failover to redirect traffic in case of an outage.
+  Use Amazon Route 53 for DNS failover to redirect traffic in case of an outage.
 2. **Web Applications:**
 * Implement redundant network paths and failover mechanisms to ensure high availability.
   Use Amazon Route 53 for DNS failover to redirect traffic in case of an outage.
