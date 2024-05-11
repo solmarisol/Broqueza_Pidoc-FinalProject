@@ -84,8 +84,8 @@ remediation.The analysis presented in this paper is theoretical and does not acc
 **Conclusion:**
 
 The findings of the ethical hacking assessment highlight several critical vulnerabilities and 
-security weaknesses within XYZ Corporation's infrastructure and applications. By implementing the 
-recommended remediation measures, XYZ Corporation can significantly enhance its security posture and 
+security weaknesses within Amazon Ecommerce Company infrastructure and applications. By implementing the 
+recommended remediation measures, Amazon Eccommerce Company can significantly enhance its security posture and 
 mitigate the risk of cyber threats and data breaches.
 
 
