@@ -1,8 +1,12 @@
 # Ethical Hacking Report 
 
 **Client:** Amazon
+
 **Date:** May 11, 2024
+
 **Prepared by:** [Marisol R. Broqueza](https://www.facebook.com/marisol.broqueza)  and [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc)
+
+
 **Executive Summary** This report presents the technical findings of the ethical hacking assessment 
 conducted for [Amazon]. The assessment aimed to identify vulnerabilities within the 
 organization's network infrastructure, applications, and systems. Through various testing methodologies, 
