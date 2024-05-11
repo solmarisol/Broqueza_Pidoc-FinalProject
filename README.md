@@ -18,7 +18,7 @@ remediation.The analysis presented in this paper is theoretical and does not acc
 
 
 1. **Network Infrastructure:**
-   * Critical: Weak or default passwords on network devices may be exploited by attackers to gain unauthorized access.
+* Critical: Weak or default passwords on network devices may be exploited by attackers to gain unauthorized access.
 * High: Vulnerable to Distributed Denial of Service (DDoS) attacks, disrupting the availability of its services.
 
 3. **Web Applications:**
