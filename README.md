@@ -17,10 +17,13 @@ remediation.The analysis presented in this paper is theoretical and does not acc
 **Vulnerability Summary:**
 
 1. **Network Infrastructure**
-       * Critical: Weak or default passwords on network devices may be exploited by attackers to gain unauthorized access.
-       * High: Vulnerable to Distributed Denial of Service (DDoS) attacks, disrupting the availability of its services.
+   
+       * Critical: Weak or default passwords on network devices may be exploited by
+          attackers to gain unauthorized access.
+       * High: Vulnerable to Distributed Denial of Service (DDoS) attacks, disrupting
+          the availability of its services.
 
-2. **Web Applications:**
+3. **Web Applications:**
       * Critical: SQL Injection vulnerability in the login form of [Application Name], potentially 
         enabling an attacker to extract sensitive data from the database.
       * High: Cross-Site Scripting (XSS) vulnerability in [Application Name], allowing attackers to 
