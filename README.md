@@ -88,4 +88,4 @@ recommended remediation measures, XYZ Corporation can significantly enhance its 
 mitigate the risk of cyber threats and data breaches.
 
 
-**Signature:** ![Signature](images/signature.png)
+**Signature:** ![Signature](signature.png)
