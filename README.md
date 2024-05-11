@@ -65,8 +65,14 @@ and unauthorized access.
 * Use strong encryption protocols such as WPA2-Enterprise for Wi-Fi networks to ensure that wireless communication is secure.
 5. **Social Engineering:**
 * Conduct regular security awareness training for employees to educate them about social engineering tactics and how to recognize and respond to them.
-**Conclusion:** The findings of the ethical hacking assessment highlight several critical vulnerabilities and 
+
+  
+**Conclusion:**
+
+The findings of the ethical hacking assessment highlight several critical vulnerabilities and 
 security weaknesses within XYZ Corporation's infrastructure and applications. By implementing the 
 recommended remediation measures, XYZ Corporation can significantly enhance its security posture and 
 mitigate the risk of cyber threats and data breaches.
+
+
 **Signature:** ![Signature](images/signature.png)
